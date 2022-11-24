@@ -40,6 +40,8 @@ Serves 2 - 3 people.
 1. Add > 1/2c water and let sit for 15 - 30min. Rice mixture should be moist and
    saturated water.
 
+### Meat
+
 1. Wash the meat cuts and cut. For pork belly, cut into 1/4 slices, otherwise cut
    into 1/2in chunks (e.g. for shortribs).
 1. Marinade in fridge for one hour.
