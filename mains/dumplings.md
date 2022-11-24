@@ -43,20 +43,22 @@ Makes ~50 dumplings.
 
 ### Meat
 
-* Mix pork with a dash of salt and stir for ~8min for consistency.
+1. Mix pork with a dash of salt and stir for ~8min for consistency.
 
 ### Vegetarian
 
-* Soak glass noodles for 10min, then cook and chop.
-* Fry tofu until crispy and light brown.
-* Beat eggs with 1tbsp water and a pinch of salt.
-* Blanch bok choy, then squeeze water out and dice.
+1. Soak glass noodles for 10min, then cook and chop.
+1. Fry tofu until crispy and light brown.
+1. Beat eggs with 1tbsp water and a pinch of salt.
+1. Blanch bok choy, then squeeze water out and dice.
 
-* Mix all ingredients and adjust to taste. For meat fillings, boil some in
-  water.
-* Wrap. If using store bought, make sure to set out with a wet paper towel to
-  rehydrate for a bit; when wrapping, run over the edge with a wet finger. Make
-  sure the edges are fully shut to prevent leakage.
-* Boil in water. When water come to boiling, add cold water. Do this three
-  times.
-* Add a bit of oil in serving bowl to separate and serve.
+### Dumpling
+
+1. Mix all ingredients and adjust to taste. For meat fillings, boil some in
+   water.
+1. Wrap. If using store bought, make sure to set out with a wet paper towel to
+   rehydrate for a bit; when wrapping, run over the edge with a wet finger. Make
+   sure the edges are fully shut to prevent leakage.
+1. Boil in water. When water come to boiling, add cold water. Do this three
+   times.
+1. Add a bit of oil in serving bowl to separate and serve.
