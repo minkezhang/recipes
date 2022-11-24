@@ -43,7 +43,7 @@ Serves 2 - 3 people.
 ### Meat
 
 1. Wash the meat cuts and cut. For pork belly, cut into 1/4 slices, otherwise cut
-   into 1/2in chunks (e.g. for shortribs).
+   into 1in chunks (e.g. for shortribs).
 1. Marinade in fridge for one hour.
 1. Mix meat with rice.
 1. Cut root vegetables into similar shape and size to meat.
