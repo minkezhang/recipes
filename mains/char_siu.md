@@ -1,6 +1,6 @@
-# Char Siu
+# Char Siu (叉烧)
 
-Last Updated 11.22.2023
+Last Updated 11.22.2022
 
 Serves 2 - 3 people.
 

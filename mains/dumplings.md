@@ -2,7 +2,7 @@
 
 Last Updated 11.22.2022
 
-~50 dumplings
+Makes ~50 dumplings.
 
 ## Ingredients
 
