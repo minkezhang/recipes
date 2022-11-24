@@ -14,8 +14,8 @@ Serves 1 - 2 people.
 
 ## Directions
 
-* Boil green beans for 1 - 2 minutes and then rince with cold water.
-* Mix 1 tbsp seseame sauce with soy sauce / vinegar / chili oil to taste.
-* Add water to sauce for consistency; sauce will break if oversaturated, so add
-  a little water at a time.
-* Add to green beans and toss.
+1. Boil green beans for 1 - 2 minutes and then rince with cold water.
+1. Mix 1 tbsp seseame sauce with soy sauce / vinegar / chili oil to taste.
+1. Add water to sauce for consistency; sauce will break if oversaturated, so add
+   a little water at a time.
+1. Add to green beans and toss.
