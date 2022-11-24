@@ -54,7 +54,7 @@ Makes 10 bao.
 
 1. Steam on medium-high heat for ~12min and let rest for a couple of minutes.
 
-#### Reheating
+### Reheating
 
 1. Freeze uncooked buns, and steam for ~15min from frozen when ready to eat (i.e.
    do not thaw).
