@@ -36,16 +36,16 @@ Serves 2 - 3 people.
 
 ## Directions
 
-* Cut pork into 1.5in wide x 1in thick strips.
-* Mix pork with marinade for a couple of minutes and let sit in fridge
-  overnight.
-* Take out pork and let sit for an hour on counter.
-* Roast in oven at 475F for 10min. Baste on both sides and flip.
-* Roast in oven at 375F for 15min. Baste on both sides and flip. Turn tray
-  around when putting back in the oven.
-* Roast in oven at 375F for 10min. *Glaze* on both sides and flip.
-* Roast in oven at 450F for 15min. Glaze on both sides.
-* Rest for 10min.
+1. Cut pork into 1.5in wide x 1in thick strips.
+1. Mix pork with marinade for a couple of minutes and let sit in fridge
+   overnight.
+1. Take out pork and let sit for an hour on counter.
+1. Roast in oven at 475F for 10min. Baste on both sides and flip.
+1. Roast in oven at 375F for 15min. Baste on both sides and flip. Turn tray
+   around when putting back in the oven.
+1. Roast in oven at 375F for 10min. *Glaze* on both sides and flip.
+1. Roast in oven at 450F for 15min. Glaze on both sides.
+1. Rest for 10min.
 
 [^1]: Deep red fermented bean curd doubles as the food coloring.
 [^2]: Sesame seed oil cuts the saltiness from the rest of the marinade. In the
