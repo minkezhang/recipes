@@ -34,30 +34,30 @@ Makes 10 bao.
 
 ### Dough
 
-* Mix yeast with water, then add the flour, corn starch, sugar, and oil.
-* Let rise for two hours. Cover with a wet paper towel.
-* Add baking powder and gently incorporate into dough; add 1 - 2 tsp water if
-  the dough is too dry.
-* Let rise for 15min.
-* Subdivide into 10 parts, then roll into a sheet ~4in diameter.
+1. Mix yeast with water, then add the flour, corn starch, sugar, and oil.
+1. Let rise for two hours. Cover with a wet paper towel.
+1. Add baking powder and gently incorporate into dough; add 1 - 2 tsp water if
+   the dough is too dry.
+1. Let rise for 15min.
+1. Subdivide into 10 parts, then roll into a sheet ~4in diameter.
 
 ### Filling
 
-* Saute onions in a dash of oil on medium-high heat until light golden.
-* Add everything else for the sauce but the corn starch and let boil for ~30s to
-  fully incorporate the onions.
-* Scoop out onions and set heat to low.
-* Add the cornstarch slurry (~3tbsp water) and mix until thickened.[^1]
-* Stir in char siu until fully coated and let cool.
+1. Saute onions in a dash of oil on medium-high heat until light golden.
+1. Add everything else for the sauce but the corn starch and let boil for ~30s to
+   fully incorporate the onions.
+1. Scoop out onions and set heat to low.
+1. Add the cornstarch slurry (~3tbsp water) and mix until thickened.[^1]
+1. Stir in char siu until fully coated and let cool.
 
 ### Bao
 
-* Steam on medium-high heat for ~12min and let rest for a couple of minutes.
+1. Steam on medium-high heat for ~12min and let rest for a couple of minutes.
 
 #### Reheating
 
-* Freeze uncooked buns, and steam for ~15min from frozen when ready to eat (i.e.
-  do not thaw).
+1. Freeze uncooked buns, and steam for ~15min from frozen when ready to eat (i.e.
+   do not thaw).
 
 [^1]: Sauce will thicken a bit more after cooling down, so it's okay if it's
       still a bit runny at this stage. Just make sure it can coat the back of a
