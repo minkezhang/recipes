@@ -34,18 +34,18 @@ Serves 2 - 3 people.
 
 ### Rice
 
-* Toast rice with spices for 4 - 5min over medium heat with spices until light
-  brown.
-* Grind in a spice mixer until right consistency.
-* Add > 1/2c water and let sit for 15 - 30min. Rice mixture should be moist and
-  saturated water.
+1. Toast rice with spices for 4 - 5min over medium heat with spices until light
+   brown.
+1. Grind in a spice mixer until right consistency.
+1. Add > 1/2c water and let sit for 15 - 30min. Rice mixture should be moist and
+   saturated water.
 
-* Wash the meat cuts and cut. For pork belly, cut into 1/4 slices, otherwise cut
-  into 1/2in chunks (e.g. for shortribs).
-* Marinade in fridge for one hour.
-* Mix meat with rice.
-* Cut root vegetables into similar shape and size to meat.
-* In cooking bowl, lay out vegetables at bottom, then meat on top. Douse with a
-  bit of water to further saturate the rice.
-* Steam on medium heat for 90 - 120min; remember to regularly add water to pot.
-* Garnish with chopped green onions.
+1. Wash the meat cuts and cut. For pork belly, cut into 1/4 slices, otherwise cut
+   into 1/2in chunks (e.g. for shortribs).
+1. Marinade in fridge for one hour.
+1. Mix meat with rice.
+1. Cut root vegetables into similar shape and size to meat.
+1. In cooking bowl, lay out vegetables at bottom, then meat on top. Douse with a
+   bit of water to further saturate the rice.
+1. Steam on medium heat for 90 - 120min; remember to regularly add water to pot.
+1. Garnish with chopped green onions.
