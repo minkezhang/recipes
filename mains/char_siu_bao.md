@@ -56,7 +56,7 @@ Makes 10 bao.
 
 ### Reheating
 
-1. Freeze uncooked buns, and steam for ~15min from frozen when ready to eat (i.e.
+1. Freeze uncooked buns, and steam for ~16min from frozen when ready to eat (i.e.
    do not thaw).
 
 [^1]: Sauce will thicken a bit more after cooling down, so it's okay if it's
