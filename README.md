@@ -10,7 +10,6 @@
 - [ ] pork belly w/ mustard greens (梅干菜肉)
 - [ ] dandan noodles (担担面)
 - [ ] zhajiang noodles (炸酱面)
-- [ ] char siu & char siu bao
 - [ ] black sesame mochi (汤圆)
 - [ ] Nutella crumble
 - [ ] jianbing (煎饼馃子)
