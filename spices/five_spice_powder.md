@@ -14,3 +14,5 @@ Last Updated 11.28.2022
 
 1. Toast Sichuan peppers.
 1. Grind.
+
+N.B.: Lasts ~2 - 3 years.
