@@ -26,3 +26,4 @@
 - [ ] cold noodles (凉拌面)
 - [ ] bing
 - [ ] liege waffles
+- [ ] pork slivers (榨菜肉丝)
