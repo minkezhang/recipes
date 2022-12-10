@@ -18,7 +18,7 @@ Makes 10 bao.
 
 ### Filling
 
-* ~1lb [char siu](char_siu.md)
+* ~1lb [char siu](char_siu.md), 1:1 pork shoulder vs. belly
 
 #### Sauce
 
