@@ -6,7 +6,7 @@ Serves 2 - 3 people.
 
 ## Ingredients
 
-* 2lbs pork, e.g. pork butt or belly
+* 2lbs pork, e.g. pork shoulder or belly
 
 ### Marinade
 
