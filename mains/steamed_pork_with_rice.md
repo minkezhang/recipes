@@ -1,6 +1,6 @@
 # Steamed Pork with Rice (粉蒸肉)
 
-Last Updated 11.22.2022
+Last Updated 12.25.2022
 
 Serves 2 - 3 people.
 
@@ -21,7 +21,7 @@ Serves 2 - 3 people.
 
 * 1in ginger, diced
 * 1 - 2tbsp Shaoxing wine
-* 1tbsp light soy sauce
+* 2tbsp light soy sauce
 * 1 - 2 cubes of fermented bean curd, with
   * 1tbsp fermented bean curd sauce
 * dash of sesame seed oil
@@ -38,12 +38,12 @@ Serves 2 - 3 people.
    brown.
 1. Grind in a spice mixer until right consistency.
 1. Add > 1/2c water and let sit for 15 - 30min. Rice mixture should be moist and
-   saturated water.
+   saturated with water.
 
 ### Meat
 
-1. Wash the meat cuts and cut. For pork belly, cut into 1/4 slices, otherwise cut
-   into 1in chunks (e.g. for shortribs).
+1. Wash the meat cuts and cut. For pork belly, cut into 1/4 slices, otherwise
+   cut into 1in chunks (e.g. for shortribs).
 1. Marinade in fridge for one hour.
 1. Mix meat with rice.
 1. Cut root vegetables into similar shape and size to meat.
