@@ -4,6 +4,8 @@ Laswt Updated 11.25.2022
 
 Serves 1 - 2 people.
 
+![fish fragrant eggplant](/assets/fish_fragrant_eggplant.jpg)
+
 ## Ingredients
 
 * 1 large eggplant

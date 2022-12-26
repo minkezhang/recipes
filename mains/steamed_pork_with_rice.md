@@ -4,6 +4,8 @@ Last Updated 12.25.2022
 
 Serves 2 - 3 people.
 
+![steamed pork with rice](/assets/steamed_pork_with_rice.jpg)
+
 ## Ingredients
 
 * ~1.5lb pork belly / shoulder / shortribs
