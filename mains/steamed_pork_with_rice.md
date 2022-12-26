@@ -36,8 +36,7 @@ Serves 2 - 3 people.
 
 ### Rice
 
-1. Toast rice with spices for 4 - 5min over medium heat with spices until light
-   brown.
+1. Toast rice with spices for 4 - 5min over medium heat until light brown.
 1. Grind in a spice mixer until right consistency.
 1. Add > 1/2c water and let sit for 15 - 30min. Rice mixture should be moist and
    saturated with water.
