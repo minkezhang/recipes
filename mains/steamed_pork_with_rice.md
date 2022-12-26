@@ -22,8 +22,8 @@ Serves 2 - 3 people.
 * 1in ginger, diced
 * 1 - 2tbsp Shaoxing wine
 * 2tbsp light soy sauce
-* 1 - 2 cubes of fermented bean curd, with
-  * 1tbsp fermented bean curd sauce
+* 1 - 2 cubes of fermented bean curd
+* 1tbsp fermented bean curd sauce
 * dash of sesame seed oil
 * 1tbsp ball of pixian douban
 * healthy pinch of five spice powder
