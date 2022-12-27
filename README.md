@@ -26,3 +26,4 @@
 - [ ] bing
 - [ ] liege waffles
 - [ ] pork slivers (榨菜肉丝)
+- [ ] tofu salad (https://omnivorescookbook.com/sliced-tofu-salad/)
