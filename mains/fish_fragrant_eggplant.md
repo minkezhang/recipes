@@ -28,7 +28,7 @@ Serves 1 - 2 people.
 1. Deep fry eggplant slivers in several batches until golden brown (~3 - 4min).
 1. Add some more oil in a wok on medium heat and fry the meat until crisp and
    browned.
-1. Add pixian douban and stir until the oil becomes red (~1 - 2min).
+1. Add pixian douban and stir until the oil becomes red (~1min).
 1. Add garlic and ginger and stir until fragrant (~1min).
 1. Add stock and sugar and mix.
 1. Add eggplant and mix for 1 - 2min.
