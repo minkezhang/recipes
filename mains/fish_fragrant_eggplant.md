@@ -25,7 +25,7 @@ Serves 1 - 2 people.
 1. Slice eggplant into quarters, then into 3in long chunks.
 1. Sprinkle some salt and let sit in a collander for ~30min.
 1. Add 2c oil into wok and heat on medium / medium-high heat.
-1. Deep fry eggplant slivers in several batches until golden brown (~3 - 4min).
+1. Deep fry eggplant chunks in several batches until golden brown (~3 - 4min).
 1. Add some more oil in a wok on medium heat and fry the meat until crisp and
    browned.
 1. Add pixian douban and stir until the oil becomes red (~1min).
