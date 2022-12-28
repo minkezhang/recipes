@@ -8,7 +8,7 @@ Serves 2 - 3 people.
 
 ## Ingredients
 
-* ~1.5lb pork belly / shoulder / shortribs
+* ~1.5lb pork belly / shoulder / shortribs[^1]
 * 1lb sweet potatos / potatos / yams
 * green onions
 
@@ -23,7 +23,7 @@ Serves 2 - 3 people.
 
 * 1in ginger, diced
 * 1 - 2tbsp Shaoxing wine
-* 2tbsp light soy sauce
+* 1tbsp light soy sauce
 * 1 - 2 cubes of fermented bean curd
 * 1tbsp fermented bean curd sauce
 * dash of sesame seed oil
@@ -53,3 +53,5 @@ Serves 2 - 3 people.
    the dish to allow for easier cooking.
 1. Steam on medium heat for 90 - 120min; remember to regularly add water to pot.
 1. Garnish with chopped green onions.
+
+[^1]: Pork shoulder has less fat than pork belly, so if using this cut, compensate by adding an extra ~1tbsp oil and an additional 1tbsp soy into the marinade, otherwise resultant dish is a bit on the dry side.
