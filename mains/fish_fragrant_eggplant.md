@@ -15,9 +15,9 @@ Serves 1 - 2 people.
 * 1tbsp ginger, diced
 * 1tbsp garlic, mashed or diced
 * 2/3c chicken stock or water
-* 2tsp sugar
+* 1tbsp sugar
 * 1tsp cornstarch
-* 2tsp Chinkiang vinegar
+* 1tbsp Chinkiang vinegar
 * 1 green onion, sliced
 
 ## Directions
