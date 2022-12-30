@@ -5,7 +5,6 @@
 - [ ] braised pork belly (红烧肉)
 - [ ] snow fungus soup (雪耳糖水)
 - [ ] wintermelon and meatballs
-- [ ] mapo tofu (麻婆豆腐)
 - [ ] lamb kebabs (羊肉串)
 - [ ] pork belly w/ mustard greens (梅干菜肉)
 - [ ] dandan noodles (担担面)
