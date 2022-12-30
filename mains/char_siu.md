@@ -47,7 +47,8 @@ Serves 2 - 3 people.
 1. Roast in oven at 450F for 15min. Glaze on both sides.
 1. Rest for 10min.
 
-[^1]: Deep red fermented bean curd doubles as the food coloring.
+[^1]: Deep red fermented bean curd doubles as the food coloring, e.g.
+      [WangZhiHe brand](https://www.amazon.com/Wangzhihe-Fermented-Traditional-Bean-DragonMall/dp/B00786YL72).
 [^2]: Sesame seed oil cuts the saltiness from the rest of the marinade. In the
       case the fermented tofu sauce is mostly sesame seed oil, this can be
       skipped
