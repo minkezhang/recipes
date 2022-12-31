@@ -1,13 +1,13 @@
 # Five Spice Powder
 
-Last Updated 11.28.2022
+Last Updated 12.31.2022
 
 ## Ingredients
 
 * 1tbsp Sichuan peppers
 * 5 - 6 star anise
-* 1tsp cloves
-* small piece of cassia bark
+* 2tsp cloves
+* medium piece of cassia bark
 * 1tbsp fennel
 
 ## Directions
