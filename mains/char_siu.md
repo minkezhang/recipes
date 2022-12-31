@@ -26,12 +26,12 @@ Serves 2 - 3 people.
 ### Basting Sauce
 
 * 1/3 of the prepared marinade
-* 2tbsp honey
+* 3tbsp honey
 * 1tbsp water, hot
 
 ### Glaze
 
-* 2tbsp honey
+* 3tbsp honey
 * 2tbsp water, hot
 
 ## Directions
