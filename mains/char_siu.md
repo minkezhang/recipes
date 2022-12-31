@@ -40,6 +40,7 @@ Serves 2 - 3 people.
 1. Mix pork with marinade for a couple of minutes and let sit in fridge
    overnight.
 1. Take out pork and let sit for an hour on counter.
+1. Line roasting pan with aluminum foil and add water to prevent burning.[^3]
 1. Roast in oven at 475F for 10min. Baste on both sides and flip.
 1. Roast in oven at 375F for 15min. Baste on both sides and flip. Turn tray
    around when putting back in the oven.
@@ -52,3 +53,5 @@ Serves 2 - 3 people.
 [^2]: Sesame seed oil cuts the saltiness from the rest of the marinade. In the
       case the fermented tofu sauce is mostly sesame seed oil, this can be
       skipped
+[^3]: Check for enough water left on the bottom of the pan after each time in
+      the oven and refill when necessary.
