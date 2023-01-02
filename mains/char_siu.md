@@ -4,6 +4,8 @@ Last Updated 11.22.2022
 
 Serves 2 - 3 people.
 
+![char siu](/assets/char_siu.jpg)
+
 ## Ingredients
 
 * 2lbs pork, e.g. pork shoulder or belly

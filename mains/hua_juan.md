@@ -4,6 +4,8 @@ Last Updated 01.01.2023
 
 Makes 10 buns.
 
+![hua_juan](/assets/hua_juan.jpg)
+
 ## Ingredients
 
 ### Filling

@@ -4,6 +4,8 @@ Last Updated 11.23.2022
 
 Makes 10 bao.
 
+![char_siu_bao](/assets/char_siu_bao.jpg)
+
 ## Ingredients
 
 ### Dough
