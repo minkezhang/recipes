@@ -25,3 +25,9 @@
 - [ ] liege waffles
 - [ ] pork slivers (榨菜肉丝)
 - [ ] tofu salad (https://omnivorescookbook.com/sliced-tofu-salad/)
+- [ ] yuxingcao salad (http://en.chinaculture.org/focus/focus/2011lixia/2011-05/09/content_413642_2.htm) or with bean sprouts
+- [ ] celtuce (https://www.chinasichuanfood.com/stir-fried-celtuce-stem/)
+- [ ] twice cooked pork
+- [ ] culiu baicai (https://thewoksoflife.com/hot-sour-cabbage-stir-fry/)
+
+* experiment with using lao zhao for eggplant / tofu, add right before serving ~2tsp
