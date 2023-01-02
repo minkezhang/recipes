@@ -67,5 +67,5 @@ Makes 10 buns.
 1. Steam for ~15min and let rest for a couple of minutes before serving.
 1. Garnish with a bit of salt to taste.
 
-[^1]: This is very similar to the [dumpling](/mains/dumplings.md) filling,
+[^1]: This is very similar to the [dumpling](dumplings.md) filling,
       roughly quartered but more oily.
