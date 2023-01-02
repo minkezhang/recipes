@@ -8,12 +8,12 @@ Makes 10 bao.
 
 ### Dough
 
-* 1tsp active dry yeast
-* 3/4c water, warm
 * 2c flour
-* 1c corn starch
-* 5tbsp sugar
+* 1c corn starch[^2]
+* 3/4c water, warm
 * 1/4c oil
+* 1tsp active dry yeast
+* 1/3c sugar
 * 2 1/2tsp baking powder
 
 ### Filling
@@ -62,4 +62,4 @@ Makes 10 bao.
 [^1]: Sauce will thicken a bit more after cooling down, so it's okay if it's
       still a bit runny at this stage. Just make sure it can coat the back of a
       spoon, etc.
-
+[^2]: Try with less corn starch -- 3/4c maybe. End result was too dry.

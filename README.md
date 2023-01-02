@@ -14,7 +14,6 @@
 - [ ] jianbing (煎饼馃子)
 - [ ] egg custard (蛋羹)
 - [ ] pork slivers (鱼香肉丝)
-- [ ] flower rolls (花卷)
 - [ ] Beijing tofu pudding (豆腐脑)
 - [ ] ice jelly (冰粉)
 - [ ] tofu / chicken salad (凉拌豆腐 / 凉拌鸡)
