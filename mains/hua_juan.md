@@ -10,7 +10,7 @@ Makes 10 buns.
 
 ### Filling
 
-#### Meat[^]
+#### Meat[^1]
 
 * 1/4lb ground pork
 * 1/2c chopped scallions
