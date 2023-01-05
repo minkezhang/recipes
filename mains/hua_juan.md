@@ -67,5 +67,9 @@ Makes 10 buns.
 1. Steam for ~15min and let rest for a couple of minutes before serving.
 1. Garnish with a bit of salt to taste.
 
+### Reheating
+
+1. Freeze uncooked buns, and steam for ~20min from frozen when ready to eat (i.e. do not thaw).
+
 [^1]: This is very similar to the [dumpling](dumplings.md) filling,
       roughly quartered but more oily.
