@@ -1,10 +1,10 @@
-# Hua Juan (花卷)
+# Flower Roll (花卷)
 
 Last Updated 01.01.2023
 
 Makes 10 buns.
 
-![hua_juan](/assets/hua_juan.jpg)
+![flower_roll](/assets/flower_roll.jpg)
 
 ## Ingredients
 
