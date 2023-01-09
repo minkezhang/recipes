@@ -16,8 +16,8 @@ Makes 10 buns.
 * 1/2c chopped scallions
 * dash of light soy sauce
 * dash of Shaoxing wine
-* 1tbsp ginger, minced
-* 1tbsp garlic, minced or mashed
+* 1/2tbsp ginger, minced
+* 1/2tbsp garlic, minced or mashed
 * 1tbsp oil
 * 2tsp Szechuan peppers, ground
 
