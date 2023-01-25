@@ -2,7 +2,6 @@
 
 ## TODO
 
-- [ ] braised pork belly (红烧肉)
 - [ ] snow fungus soup (雪耳糖水)
 - [ ] wintermelon and meatballs
 - [ ] lamb kebabs (羊肉串)
