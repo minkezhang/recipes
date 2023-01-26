@@ -27,8 +27,8 @@ Serves 1 - 2 people.
 1. Pour oil into wok over high heat.
 1. Add green onion white and ginger, stir-fry until fragrant (~30s).
 1. Add meat and stir-fry for a couple more minutes until surface is cooked.
-1. Add Shaoxing wine.
-1. Add stock, sices, soy sauce, sugar, and a pinch of salt.
+1. Add Shaoxing wine and mix for ~30s.
+1. Add stock, spices, soy sauce, sugar, and a pinch of salt.
 1. Bring to boil.
 1. Cover and simmer on low heat for 90 - 120min; check water level throughout
    and add more when necessary (shouldn't be the case if the heat is low).
