@@ -35,6 +35,7 @@ Serves 2 - 3 people.
 
 1. Boil eggs for ~10min and set aside in ice bath.
 1. Cut meat into ~1/2in chunks.
+1. Cut mushrooms into ~1/2in chunks.
 1. Boil a pot of water and blanch meat for a minute or two.
 1. Skim and set meat aside.
 1. Add oil to wok over low heat.
