@@ -49,7 +49,7 @@ Serves 2 - 3 people.
 1. Mix meat with rice.
 1. Cut root vegetables into similar shape and size to meat.
 1. In cooking bowl, lay out vegetables at bottom, then meat on top. Douse with a
-   bit of water to further saturate the rice. Poke a hole through the center of
+   bit of water and / or oil to further hydrate the rice. Poke a hole through the center of
    the dish to allow for easier cooking.
 1. Steam on medium heat for 90 - 120min; remember to regularly add water to pot.
 1. Garnish with chopped green onions.
