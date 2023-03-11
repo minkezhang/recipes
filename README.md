@@ -28,5 +28,22 @@
 - [ ] celtuce (https://www.chinasichuanfood.com/stir-fried-celtuce-stem/)
 - [ ] twice cooked pork
 - [ ] culiu baicai (https://thewoksoflife.com/hot-sour-cabbage-stir-fry/)
+- [ ] paomo https://thewoksoflife.com/pao-fan/
+- [ ] yangrou paomo https://www.wonderspodcast.com/yangrou-paomo
+
+### bing
+
+2 bing
+
+2c flour, 3:1 white:cornmeal
+3/4c:water (start low and work towards consistency)
+1tbsp yeast, mix with warm water
+
+rise 1 hour
+
+divide into 2, roll 8in diameter
+heat pan w/ a bit of oil medium, each takes ~7-8 occasionally flip
+	bing should quickly snap rise after depressing w/ finger
+
 
 * experiment with using lao zhao for eggplant / tofu, add right before serving ~2tsp
