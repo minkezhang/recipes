@@ -62,3 +62,10 @@ Makes ~50 dumplings.
 1. Boil in water. When water come to boiling, add cold water. Do this three
    times.
 1. Add a bit of oil in serving bowl to separate and serve.
+
+### Reheating
+
+1. Add a bit of oil over medium heat.
+1. Add several dumplings and add a couple spoonfuls of water.
+1. Cover pan to prevent spattering.
+1. Let cook until water has evaporated.
