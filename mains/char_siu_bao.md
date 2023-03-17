@@ -13,7 +13,7 @@ Makes 10 bao.
 * 2c flour
 * 1c corn starch[^2]
 * 3/4c water, warm
-* 1/4c oil
+* 3tbsp oil
 * 1tsp active dry yeast
 * 1/3c sugar
 * 2 1/2tsp baking powder
@@ -36,7 +36,9 @@ Makes 10 bao.
 
 ### Dough
 
-1. Mix yeast with water, then add the flour, corn starch, sugar, and oil.
+1. Mix yeast with water.
+1. Mix flour, corn starch, sugar, and oil.
+1. Slowly incorporate water into mix while stirring constantly; do not fold until all the dough has the right texture. Add more water as needed.
 1. Let rise for two hours. Cover with a wet paper towel.
 1. Add baking powder and gently incorporate into dough; add 1 - 2 tsp water if
    the dough is too dry.
