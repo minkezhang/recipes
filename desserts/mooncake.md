@@ -45,7 +45,7 @@ Makes ~10 50g mooncakes.
 1. Plunge mold onto mooncake ball firmly and hold for 40s.
 1. Bake for 5m at 350F. Brush sides and top of mooncake with egg wash.
 1. Bake for 5m at 350F. Brush sides and top of mooncake with egg wash.
-1. Bake for 5m at 350F.
+1. Bake for 15m at 350F or until golden brown.
 1. Let cool to room temperature.
 1. Store in airtight container and rest for three days in fridge.
 
