@@ -32,6 +32,8 @@
 - [ ] yangrou paomo https://www.wonderspodcast.com/yangrou-paomo
 - [ ] jingjiang rousi https://www.tasteatlas.com/jing-jiang-rou-si
 - [ ] jiangrou https://wayoftheeating.wordpress.com/2015/04/28/pork-30-jiangrou-%E9%86%AC%E8%82%89/, bao
+- [ ] dragon's beard candy https://www.instructables.com/Do-It-Yourself-Dragons-Beard-Candy/
+- [ ] cloud cake https://www.youtube.com/watch?v=jj3dxS8c7Mg
 
 ### bing
 
