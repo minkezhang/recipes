@@ -28,6 +28,8 @@ Makes two servings.
 * 3tbsp light soy sauce
 * 2tsp dark soy sauce
 * 4tbsp chili oil w/ sediment
+* 2tsp sugar
+* 2tsp Chinese vinegar
 
 #### Vegetables
 
