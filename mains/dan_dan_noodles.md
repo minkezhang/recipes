@@ -25,7 +25,7 @@ Makes two servings.
 
 * 1tsp ground roasted Sichuan pepper
 * 2tbsp sesame paste
-* 3tbsp light soy sauce
+* 2tbsp light soy sauce
 * 2tsp dark soy sauce
 * 4tbsp chili oil w/ sediment
 * 2tsp sugar
