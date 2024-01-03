@@ -20,6 +20,7 @@ Makes two servings.
 * 1oz [suimiyacai](https://www.amazon.com/Bin-Sui-Cai-SuiMiYaCai-Vegetable/dp/B01N7T7M4X) or [dongcai](https://www.amazon.com/Original-Tianjin-Preserved-Vegetable-Stainless/dp/B0046QC97Q)
 * 4oz ground beef
 * 2tsp light soy sauce
+* pinch of five spice
 
 #### Sauce
 
