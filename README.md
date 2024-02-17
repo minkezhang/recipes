@@ -33,6 +33,7 @@
 - [ ] cloud cake https://www.youtube.com/watch?v=jj3dxS8c7Mg
 - [ ] kabuli pulao https://afghancooks.com/kabuli-pulao-recipe/
 - [ ] https://www.youtube.com/watch?v=JwPa3-_fNLI
+- [ ] mulled wine (https://www.wellplated.com/spiced-wine/)
 
 ### bing
 
