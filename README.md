@@ -15,7 +15,7 @@
 - [ ] pork slivers (鱼香肉丝)
 - [ ] Beijing tofu pudding (豆腐脑)
 - [ ] ice jelly (冰粉)
-- [ ] tofu / chicken salad (凉拌豆腐 / 凉拌鸡)
+- [ ] tofu / chicken salad (凉拌豆腐 / 凉拌鸡) [mouth-watering chicken](https://omnivorescookbook.com/saliva-chicken/#wprm-recipe-container-14886)
 - [ ] woodear salad (凉拌木耳)
 - [ ] cucumber salad
 - [ ] shredded potatoes (土豆丝 / 萝卜丝)
