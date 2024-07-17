@@ -11,7 +11,7 @@ Last Updated 09.09.2023
 * 1tsp salt
 * 1tsp MSG
 * 1/2tsp pepper
-* 4 cloves garlic, diceA
+* 4 cloves garlic, diced
 
 ## Directions
 
