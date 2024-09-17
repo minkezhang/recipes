@@ -21,7 +21,7 @@ Makes ~10 50g mooncakes.
 
 ### Lotus Paste
 
-* 10 salted egg yolks
+* 5 salted egg yolks[^6]
 * 220g lotus paste[^3]
 * 1tsp matcha powder[^5]
 
@@ -38,7 +38,7 @@ Makes ~10 50g mooncakes.
 ### Lotus Paste
 
 1. Wash egg yolk with water to remove egg white and pat dry.
-1. Wrap yolk with lotus paste.
+1. Wrap 1/2[^6] of a yolk with lotus paste.
 1. Roll into a ball.
 
 ### Egg Wash
@@ -66,3 +66,4 @@ Makes ~10 50g mooncakes.
 [^3]: Total 35g filling per mooncake.
 [^4]: Optional.
 [^5]: Optional.
+[^6]: Experimentally, one egg yolk per mooncake is too much.
