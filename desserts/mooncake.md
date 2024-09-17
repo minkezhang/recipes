@@ -1,6 +1,6 @@
 # Mooncake
 
-Last Updated 09.09.2023
+Last Updated 09.17.2024
 
 Makes ~10 50g mooncakes.
 
@@ -23,6 +23,7 @@ Makes ~10 50g mooncakes.
 
 * 10 salted egg yolks
 * 220g lotus paste[^3]
+* 1tsp matcha powder[^5]
 
 ## Directions
 
@@ -64,3 +65,4 @@ Makes ~10 50g mooncakes.
 [^2]: Omit if using honey.
 [^3]: Total 35g filling per mooncake.
 [^4]: Optional.
+[^5]: Optional.
