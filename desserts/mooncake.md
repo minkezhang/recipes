@@ -21,7 +21,7 @@ Makes ~10 50g mooncakes.
 
 ### Lotus Paste
 
-* 5 salted egg yolks[^6]
+* 5 salted egg yolks
 * 220g lotus paste[^3]
 * 1tsp matcha powder[^5]
 
