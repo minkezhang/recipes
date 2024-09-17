@@ -28,10 +28,11 @@ Makes ~10 50g mooncakes.
 
 ### Dough
 
+1. Sift flour.
 1. Mix golden syrup, lye water, and vegetable oil.
 1. Add cake flour.
 1. Knead until well-incorporated.
-1. Wrap dough in cling wrap and refrigerate for 30min.
+1. Wrap dough in cling wrap and refrigerate for 30min - a day.
 
 ### Lotus Paste
 
