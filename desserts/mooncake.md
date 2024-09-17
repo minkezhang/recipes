@@ -12,14 +12,19 @@ Makes ~10 50g mooncakes.
 * 1/4tsp lye water[^2]
 * 24g vegetable oil
 * 100g cake flour
-* egg wash
+* 1tsp matcha powder[^4]
+
+### Egg Wash
+
+* 1 egg
+* 1tbsp water
 
 ### Lotus Paste
 
 * 10 salted egg yolks
 * 220g lotus paste[^3]
 
-### Directions
+## Directions
 
 ### Dough
 
@@ -34,6 +39,10 @@ Makes ~10 50g mooncakes.
 1. Wrap yolk with lotus paste.
 1. Roll into a ball.
 
+### Egg Wash
+
+1. Mix and drain in sieve.
+
 ### Mooncake
 
 1. Pinch off 15g dough and roll out between two cling wrap layers.
@@ -43,6 +52,7 @@ Makes ~10 50g mooncakes.
 1. Dust mooncake on a floured surface.
 1. Plunge mold piston into flour.
 1. Plunge mold onto mooncake ball firmly and hold for 40s.
+1. Spray mooncakes with water to prevent cracking during baking.
 1. Bake for 5m at 350F. Brush sides and top of mooncake with egg wash.
 1. Bake for 5m at 350F. Brush sides and top of mooncake with egg wash.
 1. Bake for 15m at 350F or until golden brown.
@@ -52,3 +62,4 @@ Makes ~10 50g mooncakes.
 [^1]: May be replaced with 60g honey instead.
 [^2]: Omit if using honey.
 [^3]: Total 35g filling per mooncake.
+[^4]: Optional.
