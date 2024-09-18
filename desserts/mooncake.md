@@ -25,6 +25,11 @@ Makes ~10 50g mooncakes.
 * 220g lotus paste[^3]
 * 1tsp matcha powder[^5]
 
+### Red Bean
+
+* 5 salted egg yolks
+* 220g red bean paste[^7]
+
 ## Directions
 
 ### Dough
@@ -67,3 +72,4 @@ Makes ~10 50g mooncakes.
 [^4]: Optional.
 [^5]: Optional.
 [^6]: Experimentally, one egg yolk per mooncake is too much.
+[^7]: If the red bean paste is too watery, microwave in 30s intervals and stir until the right consistency. For example, 70g of [Fusion Select](https://www.amazon.com/dp/B0B197J48N) microwaved for 30s then 30s (stirring in between and after) nets 58g of firm filling.
