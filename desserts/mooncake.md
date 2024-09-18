@@ -72,4 +72,4 @@ Makes ~10 50g mooncakes.
 [^4]: Optional.
 [^5]: Optional.
 [^6]: Experimentally, one egg yolk per mooncake is too much.
-[^7]: If the red bean paste is too watery, microwave in 30s intervals and stir until the right consistency. For example, 70g of [Fusion Select](https://www.amazon.com/dp/B0B197J48N) microwaved for 30s then 30s (stirring in between and after) nets 58g of firm filling.
+[^7]: If the red bean paste is too watery, microwave in 30s intervals and stir until the right consistency. For example, 70g of [Fusion Select](https://www.amazon.com/dp/B0B197J48N) microwaved for 30s then 25s (stirring in between and after) nets 58g of firm filling.
