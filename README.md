@@ -35,6 +35,8 @@
 - [ ] https://www.youtube.com/watch?v=JwPa3-_fNLI
 - [ ] mulled wine (https://www.wellplated.com/spiced-wine/)
 - [ ] mago sago (https://nomnompaleo.com/mango-sago-coconut-tapioca-pudding)
+- [ ] egg tart
+- [ ] pineapple buns (https://healthynibblesandbits.com/pineapple-buns/)
 
 ### bing
 
