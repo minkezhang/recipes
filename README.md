@@ -3,7 +3,6 @@
 ## TODO
 
 - [ ] snow fungus soup (雪耳糖水)
-- [ ] wintermelon and meatballs
 - [ ] lamb kebabs (羊肉串)
 - [ ] pork belly w/ mustard greens (梅干菜肉)
 - [ ] zhajiang noodles (炸酱面)
