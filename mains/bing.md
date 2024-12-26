@@ -4,6 +4,8 @@ Last Updated 12.25.2024
 
 Serves two people.
 
+![bing](/assets/bing.jpg)
+
 ## Ingredients
 
 ### Leavened

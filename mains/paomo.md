@@ -4,6 +4,8 @@ Last Updated 12.25.2024
 
 Serves two people.
 
+![paomo](/assets/paomo.jpg)
+
 ## Ingredients
 
 ### Soup Base
