@@ -4,6 +4,8 @@ Last Updated 11.22.2022
 
 Serves 1 - 2 people.
 
+![sesame green beans](/assets/sesame_green_beans.jpg)
+
 ## Ingredients
 
 * 1lb green beans

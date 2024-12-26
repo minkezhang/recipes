@@ -2,7 +2,9 @@
 
 Last Updated 01.03.2024
 
-Serves 2 people.
+Serves two people.
+
+![tofu skin salad](/assets/tofu_skin_salad.jpg)
 
 ## Ingredients
 
