@@ -1,4 +1,4 @@
-# Potato Slivers (土豆絲)
+# Potato Slivers (土豆丝 / 萝卜丝)
 
 Last Updated 12.25.2024
 
@@ -8,7 +8,7 @@ Serves one person.
 
 ## Ingredients
 
-* 1/2lb potatoes, julienned ~3in
+* 1/2lb potatoes or turnip, julienned ~3in
 * 2tbsp oil
 * 3 dried chilis, whole or sliced
 * 2 green onions, sliced
