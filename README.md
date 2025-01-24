@@ -33,5 +33,6 @@
 - [ ] egg tart
 - [ ] pineapple buns (https://healthynibblesandbits.com/pineapple-buns/)
 - [ ] https://sweetdreamsrecipes.wordpress.com/2015/10/19/milk-candy-nougat/
+- [ ] https://www.mochimommy.com/white-rabbit-candy/
 
 * experiment with using lao zhao for eggplant / tofu, add right before serving ~2tsp
