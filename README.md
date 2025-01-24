@@ -32,5 +32,6 @@
 - [ ] mago sago (https://nomnompaleo.com/mango-sago-coconut-tapioca-pudding)
 - [ ] egg tart
 - [ ] pineapple buns (https://healthynibblesandbits.com/pineapple-buns/)
+- [ ] https://sweetdreamsrecipes.wordpress.com/2015/10/19/milk-candy-nougat/
 
 * experiment with using lao zhao for eggplant / tofu, add right before serving ~2tsp
