@@ -42,7 +42,21 @@
 from https://winemakermag.com/article/craft-your-own-homemade-liqueurs
 
 350ml Roku gin
-1tsp vanilla
-3 orange zest
-1tbsp lavender
+* 1tsp vanilla
+* 1 orange zest
+* 1tbsp lavender
+* cinnamon
+* 1 chili
+* cloves
 overnight
+
+### Simple Syrup
+https://www.thespruceeats.com/make-your-own-ginger-simple-syrup-760215
+* brown sugar
+* ginger
+* cinnamon
+* cloves
+* cinnamon
+* (1 chili)
+* (1/4 tsp salt)
+* 1 zest orange
