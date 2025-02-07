@@ -6,7 +6,7 @@
 - [ ] lamb kebabs (羊肉串)
 - [ ] pork belly w/ mustard greens (梅干菜肉)
 - [ ] zhajiang noodles (炸酱面)
-- [ ] black sesame mochi (汤圆)
+- [ ] black sesame mochi (汤圆) https://thewoksoflife.com/tang-yuan-recipe/
 - [ ] Nutella crumble
 - [ ] jianbing (煎饼馃子)
 - [ ] egg custard (蛋羹)
