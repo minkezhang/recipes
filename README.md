@@ -38,6 +38,7 @@
 - [ ] https://www.mochimommy.com/white-rabbit-candy/
 - [ ] 腊味三宝饭 [img](https://scontent-sea1-1.xx.fbcdn.net/v/t1.6435-9/55589251_2352986451432591_9172698264644878336_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=0b6b33&_nc_ohc=oT877Kg-sJAQ7kNvgGZh2Pd&_nc_zt=23&_nc_ht=scontent-sea1-1.xx&_nc_gid=AMopaot0jzUH6ffiIDi_pnB&oh=00_AYBBfJSc7Whb-L8ZRbxJTEty3DzuGUFzSAj1Y_Qmm678sQ&oe=67C238BB)
 * [ ] https://healthynibblesandbits.com/chinese-stir-fried-chayote/
+* [ ] sai mai lo https://web.archive.org/web/20210711204424/https://bakeyousmile.com/2014/11/10/sago-in-coconut-milk-sai-mai-lo/
 
 https://www.chinasichuanfood.com/beef-and-lamb/
 
