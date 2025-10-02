@@ -4,6 +4,8 @@ Last Updated 09.17.2024
 
 Makes ~10 50g mooncakes.
 
+TODO(minkezhang): https://thewoksoflife.com/ham-nut-mooncake-recipe/
+
 ## Ingredients
 
 ### Dough
