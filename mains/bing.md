@@ -26,7 +26,7 @@ Serves two people.
 
 1. Mix flour, yeast and water; add water gradually to prevent overwatering.
 1. Cover and let rise 1hr.
-1. Divide into two portions for two ~8in diameter _bing_.
+1. Divide into two portions for two ~8in diameter _bing_. Optionally, fold in some spring onions, Sichuan pepper, and salt.
 1. Heat pan with some oil.
 1. As with the unleavened _bing_, let cook (for ~7 - 8min) or until _bing_ rises
    quickly after depressed with finger.
