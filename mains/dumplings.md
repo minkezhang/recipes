@@ -22,12 +22,11 @@ Makes ~50 dumplings.
 ### Vegetarian
 
 * 1/6lb glass noodles
-* 1/4lb tofu, diced
+* 1/4lb firm tofu, diced
 * 3 eggs beaten
-* oil
-* 2 - 3 mushooms, diced
+* 2 - 3 shiitake mushooms, diced
 * 1/2lb chives, chopped
-* 1/2lb bok choy
+* 1/2lb bok choy or Chinese celery
 * 1 - 2tbsp oil
 
 ### Dipping Sauce
@@ -51,6 +50,7 @@ Makes ~50 dumplings.
 1. Fry tofu until crispy and light brown.
 1. Beat eggs with 1tbsp water and a pinch of salt.
 1. Blanch bok choy, then squeeze water out and dice.
+1. If using celery, dice and sweat with salt for 30min and squeeze out water.
 
 ### Dumpling
 
