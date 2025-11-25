@@ -40,6 +40,8 @@
 * [ ] https://healthynibblesandbits.com/chinese-stir-fried-chayote/
 * [ ] sai mai lo https://web.archive.org/web/20210711204424/https://bakeyousmile.com/2014/11/10/sago-in-coconut-milk-sai-mai-lo/
 * [ ] https://teakandthyme.com/mini-lemon-meringue-tarts/
+* [ ] https://eatsdelightful.com/apple-pie-cookies/
+* [ ] https://www.thekitchn.com/christina-tosis-162171
 
 https://www.chinasichuanfood.com/beef-and-lamb/
 
