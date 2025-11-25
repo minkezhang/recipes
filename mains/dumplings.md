@@ -23,7 +23,7 @@ Makes ~50 dumplings.
 
 * 1/6lb glass noodles
 * 1/4lb firm tofu, diced
-* 3 eggs beaten
+* 3 eggs beaten and scrambled
 * 2 - 3 shiitake mushooms, diced
 * 1/2lb chives, chopped
 * 1/2lb bok choy or Chinese celery
