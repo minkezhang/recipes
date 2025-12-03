@@ -42,6 +42,7 @@
 * [ ] https://teakandthyme.com/mini-lemon-meringue-tarts/
 * [ ] https://eatsdelightful.com/apple-pie-cookies/
 * [ ] https://www.thekitchn.com/christina-tosis-162171
+* [ ] https://www.justonecookbook.com/simple-chicken-curry/ japanese curry
 
 https://www.chinasichuanfood.com/beef-and-lamb/
 
