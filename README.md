@@ -59,16 +59,5 @@ from https://winemakermag.com/article/craft-your-own-homemade-liqueurs
 * cloves
 overnight
 
-### Simple Syrup
-https://www.thespruceeats.com/make-your-own-ginger-simple-syrup-760215
-* 1c brown sugar
-* 1c ginger
-* pinch cloves
-* 2 sticks cinnamon
-* (1 chili)
-* (1/4 tsp salt)
-* 1 zest orange
-* 1tsp vanilla
-
 ### Peanuts?
 * peanuts, sichuan pepper, sugar, white pepper ...?
