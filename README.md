@@ -12,25 +12,25 @@
 1. Egg Custard (蛋羹)
 1. Pork Slivers (鱼香肉丝 / 榨菜肉丝)
 1. Beijing Pork Slivers (京酱肉丝)
-  1. https://www.tasteatlas.com/jing-jiang-rou-si
+    1. https://www.tasteatlas.com/jing-jiang-rou-si
 1. Sichuan Cold Noodles (凉拌面)
 1. Twice-Cooked Pork (回锅肉)
 1. Leftover Porridge (泡饭)
-  1. https://thewoksoflife.com/pao-fan/
+    1. https://thewoksoflife.com/pao-fan/
 1. Cured Pork (醬肉)
-  1. [https://wayoftheeating.wordpress.com/2015/04/28/pork-30-jiangrou-醬肉/](https://wayoftheeating.wordpress.com/2015/04/28/pork-30-jiangrou-醬肉/)
+    1. [https://wayoftheeating.wordpress.com/2015/04/28/pork-30-jiangrou-醬肉/](https://wayoftheeating.wordpress.com/2015/04/28/pork-30-jiangrou-醬肉/)
 1. Kabuli Pulao
-  1. https://afghancooks.com/kabuli-pulao-recipe/
+    1. https://afghancooks.com/kabuli-pulao-recipe/
 1. Japanese Curry
-  1. https://www.justonecookbook.com/simple-chicken-curry/
+    1. https://www.justonecookbook.com/simple-chicken-curry/
 1. Misc. Over Rice
-  1. https://www.youtube.com/watch?v=JwPa3-\_fNLI
+    1. https://www.youtube.com/watch?v=JwPa3-\_fNLI
 1. Three-Treasure Rice (腊味三宝饭)
-  1. https://guide.michelin.com/sg/zh\_CN/article/dining-in/cny-recipe-cured-meat-claypot-rice-three-coins
-  1. https://www.newmalaysiankitchen.com/easy-waxed-meat-claypot-rice-in-rice-cooker-lap-mei-fan-30-minutes/
+    1. https://guide.michelin.com/sg/zh\_CN/article/dining-in/cny-recipe-cured-meat-claypot-rice-three-coins
+    1. https://www.newmalaysiankitchen.com/easy-waxed-meat-claypot-rice-in-rice-cooker-lap-mei-fan-30-minutes/
 1. Water-Boiled Beef (水煮牛肉)[^4]
-  1. https://redhousespice.com/sichuan-boiled-beef/
-  1. https://www.chinasichuanfood.com/shui-zhu-beef/
+    1. https://redhousespice.com/sichuan-boiled-beef/
+    1. https://www.chinasichuanfood.com/shui-zhu-beef/
 
 ### Soups
 
