@@ -2,62 +2,112 @@
 
 ## TODO
 
-- [ ] pork bao https://thewoksoflife.com/steamed-pork-buns-baozi/
-- [ ] snow fungus soup (雪耳糖水)
-- [ ] lamb kebabs (羊肉串)
-- [ ] pork belly w/ mustard greens (梅干菜肉)
-- [ ] black sesame mochi (汤圆) https://thewoksoflife.com/tang-yuan-recipe/ OR [source2](https://www.chinasichuanfood.com/black-sesame-buns/) OR [source3](https://theplantbasedwok.com/black-sesame-steamed-buns/) (molten)
-- [ ] Nutella crumble https://www.justsotasty.com/nutella-crumb-bars/ (try +3tbsp matcha / freeze-dried strawberry powder in shortbread, candied orange peels / zest on top of the Nutella / in crumb)
-- [ ] jianbing (煎饼馃子)
-- [ ] egg custard (蛋羹)
-- [ ] pork slivers (鱼香肉丝)
-- [ ] Beijing tofu pudding (豆腐脑)
-- [ ] bingfen https://www.youtube.com/watch?v=dwMmz43HptI
-- [ ] ice jelly (冰粉)
-- [ ] tofu / chicken salad (凉拌豆腐 / 凉拌鸡) [mouth-watering chicken](https://omnivorescookbook.com/saliva-chicken/#wprm-recipe-container-14886)
-- [ ] woodear salad (凉拌木耳)
-- [ ] cold noodles (凉拌面)
-- [ ] liege waffles
-- [ ] pork slivers (榨菜肉丝)
-- [ ] yuxingcao salad (http://en.chinaculture.org/focus/focus/2011lixia/2011-05/09/content_413642_2.htm) or with bean sprouts
-- [ ] twice cooked pork
-- [ ] culiu baicai (https://thewoksoflife.com/hot-sour-cabbage-stir-fry/)
-- [ ] paomo https://thewoksoflife.com/pao-fan/
-- [ ] jingjiang rousi https://www.tasteatlas.com/jing-jiang-rou-si
-- [ ] jiangrou https://wayoftheeating.wordpress.com/2015/04/28/pork-30-jiangrou-%E9%86%AC%E8%82%89/, bao
-- [ ] dragon's beard candy https://www.instructables.com/Do-It-Yourself-Dragons-Beard-Candy/
-- [ ] cloud cake https://www.youtube.com/watch?v=jj3dxS8c7Mg
-- [ ] kabuli pulao https://afghancooks.com/kabuli-pulao-recipe/
-- [ ] https://www.youtube.com/watch?v=JwPa3-_fNLI
-- [ ] mulled wine (https://www.wellplated.com/spiced-wine/)
-- [ ] mago sago (https://nomnompaleo.com/mango-sago-coconut-tapioca-pudding)
-- [ ] egg tart
-- [ ] pineapple buns (https://healthynibblesandbits.com/pineapple-buns/)
-- [ ] https://sweetdreamsrecipes.wordpress.com/2015/10/19/milk-candy-nougat/
-- [ ] https://www.mochimommy.com/white-rabbit-candy/
-- [ ] 腊味三宝饭 [img](https://scontent-sea1-1.xx.fbcdn.net/v/t1.6435-9/55589251_2352986451432591_9172698264644878336_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=0b6b33&_nc_ohc=oT877Kg-sJAQ7kNvgGZh2Pd&_nc_zt=23&_nc_ht=scontent-sea1-1.xx&_nc_gid=AMopaot0jzUH6ffiIDi_pnB&oh=00_AYBBfJSc7Whb-L8ZRbxJTEty3DzuGUFzSAj1Y_Qmm678sQ&oe=67C238BB)
-* [ ] https://healthynibblesandbits.com/chinese-stir-fried-chayote/
-* [ ] sai mai lo https://web.archive.org/web/20210711204424/https://bakeyousmile.com/2014/11/10/sago-in-coconut-milk-sai-mai-lo/
-* [ ] https://teakandthyme.com/mini-lemon-meringue-tarts/
-* [ ] https://eatsdelightful.com/apple-pie-cookies/
-* [ ] https://www.thekitchn.com/christina-tosis-162171
-* [ ] https://www.justonecookbook.com/simple-chicken-curry/ japanese curry
+### Mains
 
-https://www.chinasichuanfood.com/beef-and-lamb/
+1. Pork Bao
+    1. https://thewoksoflife.com/steamed-pork-buns-baozi/
+1. Lamb Kebabs (羊肉串)
+1. Pork Belly with Pickled Mustard Greens (梅干菜肉)
+1. Jianbing (煎饼馃子)
+1. Egg Custard (蛋羹)
+1. Pork Slivers (鱼香肉丝 / 榨菜肉丝)
+1. Beijing Pork Slivers (京酱肉丝)
+  1. https://www.tasteatlas.com/jing-jiang-rou-si
+1. Sichuan Cold Noodles (凉拌面)
+1. Twice-Cooked Pork (回锅肉)
+1. Leftover Porridge (泡饭)
+  1. https://thewoksoflife.com/pao-fan/
+1. Cured Pork (醬肉)
+  1. [https://wayoftheeating.wordpress.com/2015/04/28/pork-30-jiangrou-醬肉/](https://wayoftheeating.wordpress.com/2015/04/28/pork-30-jiangrou-醬肉/)
+1. Kabuli Pulao
+  1. https://afghancooks.com/kabuli-pulao-recipe/
+1. Japanese Curry
+  1. https://www.justonecookbook.com/simple-chicken-curry/
+1. Misc. Over Rice
+  1. https://www.youtube.com/watch?v=JwPa3-\_fNLI
+1. Three-Treasure Rice (腊味三宝饭)
+  1. https://guide.michelin.com/sg/zh\_CN/article/dining-in/cny-recipe-cured-meat-claypot-rice-three-coins
+  1. https://www.newmalaysiankitchen.com/easy-waxed-meat-claypot-rice-in-rice-cooker-lap-mei-fan-30-minutes/
+1. Water-Boiled Beef (水煮牛肉)[^4]
+  1. https://redhousespice.com/sichuan-boiled-beef/
+  1. https://www.chinasichuanfood.com/shui-zhu-beef/
 
-* experiment with using lao zhao for eggplant / tofu, add right before serving ~2tsp
+### Soups
 
-### liqueur 
-from https://winemakermag.com/article/craft-your-own-homemade-liqueurs
+1. Snow Fungus Soup (雪耳糖水)
 
-350ml Roku gin
-* 1tsp vanilla
-* 1 orange zest
-* 1tbsp lavender
-* cinnamon
-* 1 chili
-* cloves
-overnight
+### Sides
 
-### Peanuts?
-* peanuts, sichuan pepper, sugar, white pepper ...?
+1. Beijing Tofu Pudding (豆腐脑)
+1. Tofu and Chicken Salad (凉拌豆腐 / 凉拌鸡)
+    1. https://omnivorescookbook.com/saliva-chicken/
+1. Woodear Salad (凉拌木耳)
+1. Yuxingcao Salad[^2]
+    1. http://en.chinaculture.org/focus/focus/2011lixia/2011-05/09/content\_413642\_2.htm
+1. Stir-Fried Cabbage (醋熘白菜)
+    1. https://thewoksoflife.com/hot-sour-cabbage-stir-fry/
+1. Stir-Fried Chayote
+    1. https://healthynibblesandbits.com/chinese-stir-fried-chayote/
+1. Spiced Peanuts
+    1. https://redhousespice.com/sichuan-spicy-peanuts/
+
+### Desserts
+
+1. Tangyuan (汤圆)
+    1. https://thewoksoflife.com/tang-yuan-recipe/
+    1. https://www.chinasichuanfood.com/black-sesame-buns/
+    1. https://theplantbasedwok.com/black-sesame-steamed-buns/
+1. Nutella Crumble[^1]
+    1. https://www.justsotasty.com/nutella-crumb-bars/
+1. Bingfen (冰粉)
+    1. https://www.youtube.com/watch?v=dwMmz43HptI
+1. Liege Waffles
+1. Dragon's Beard Candy (龙须糖)
+    1. https://www.instructables.com/Do-It-Yourself-Dragons-Beard-Candy/
+1. Cloud Cake (雲片糕)
+    1. https://www.youtube.com/watch?v=jj3dxS8c7Mg
+1. Mango Sago
+    1. https://nomnompaleo.com/mango-sago-coconut-tapioca-pudding
+1. Sai Mai Lo
+    1. https://web.archive.org/web/20210711204424/https://bakeyousmile.com/2014/11/10/sago-in-coconut-milk-sai-mai-lo/
+1. Egg Tart
+1. Pineapple Bun
+    1. https://healthynibblesandbits.com/pineapple-buns/
+1. Milk Nougat
+    1. https://sweetdreamsrecipes.wordpress.com/2015/10/19/milk-candy-nougat/
+    1. https://www.mochimommy.com/white-rabbit-candy/
+1. Lemon Meringue Tart
+    1. https://teakandthyme.com/mini-lemon-meringue-tarts/
+1. Apple Pie Cookies[^3]
+    1. https://eatsdelightful.com/apple-pie-cookies/
+1. Corn Cookies
+    1. https://www.thekitchn.com/christina-tosis-162171/
+
+### Drinks
+
+1. Mulled Wine
+    1. https://www.wellplated.com/spiced-wine/
+1. Homemade Liqueur[^5]
+    1. https://winemakermag.com/article/craft-your-own-homemade-liqueurs
+
+### Notes
+
+1. Experiment with using laozao (酒酿) when serving eggplant / tofu dishes by
+   adding ~2tsp immediately before serving
+
+[^1]: Try with 3tbsp matchaor freeze-dried strawberry powder in the shortbread,
+    and candied orange peels and / or orange zest on top of the Nutella and
+    crumbs.
+[^2]: Try with bean sprouts instead.
+[^3]: Try with garnishes: grated sharp cheddar and ground sea salt finish; or
+    lemon juice with salted caramel and ground sea salt and lemon zest finish
+[^4]: Also take a look at other
+    [chinasichuanfood.com](https://www.chinasichuanfood.com) recipes.
+[^5]: Try infusing overnight with the following --
+    1. 350ml Roku gin
+    1. 1tsp vanilla
+    1. 1tbsp lavender
+    1. 1 zest of orange
+    1. 1 dried chili
+    1. pinch of cinnamon
+    1. pinch of cloves
