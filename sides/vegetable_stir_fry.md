@@ -37,5 +37,4 @@ Serves one person.
 1. Set aside and cook green onions until fragrant.
 1. Add everything back into wok and stir. Serve.
 
-
 [^1]: Spinach, green beans, celtuce stem, bitter melon, chayote, etc.
