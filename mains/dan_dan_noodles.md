@@ -55,4 +55,4 @@ Makes two servings.
 
 ## Sources
 
-* Dunlop, Fuchsia. *Every Grain of Rice*
+* Dunlop, Fuchsia. _Every Grain of Rice_.

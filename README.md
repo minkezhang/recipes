@@ -6,7 +6,6 @@
 - [ ] snow fungus soup (雪耳糖水)
 - [ ] lamb kebabs (羊肉串)
 - [ ] pork belly w/ mustard greens (梅干菜肉)
-- [ ] zhajiang noodles (炸酱面)
 - [ ] black sesame mochi (汤圆) https://thewoksoflife.com/tang-yuan-recipe/ OR [source2](https://www.chinasichuanfood.com/black-sesame-buns/) OR [source3](https://theplantbasedwok.com/black-sesame-steamed-buns/) (molten)
 - [ ] Nutella crumble https://www.justsotasty.com/nutella-crumb-bars/ (try +3tbsp matcha / freeze-dried strawberry powder in shortbread, candied orange peels / zest on top of the Nutella / in crumb)
 - [ ] jianbing (煎饼馃子)

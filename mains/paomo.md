@@ -52,7 +52,8 @@ Serves two people.
 
 ## Sources
 
-* https://www.wonderspodcast.com/yangrou-paomo
+* Vahrenkamp, Caroline. _Wonders of the World_.
+  [wonderspodcast.com/yangrou-paomo](https://www.wonderspodcast.com/yangrou-paomo).
 
 [^1]: Bundle the fennel and Sichuan peppers in a cheesecloth ball for
   convenience.

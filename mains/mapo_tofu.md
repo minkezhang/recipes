@@ -43,4 +43,4 @@ Serves 1 - 2 people.
 
 ## Sources
 
-* Dunlop, Fuchsia. _Every Grain of Rice_
+* Dunlop, Fuchsia. _Every Grain of Rice_.
