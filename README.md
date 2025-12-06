@@ -4,21 +4,20 @@
 
 ### Mains
 
-1. Pork Bao [thewoksoflife](https://thewoksoflife.com/steamed-pork-buns-baozi/)
+1. Pork Bao [The Woks of Life](https://thewoksoflife.com/steamed-pork-buns-baozi/)
 1. Lamb Kebabs (羊肉串)
 1. Pork Belly with Pickled Mustard Greens (梅干菜肉)
 1. Jianbing (煎饼馃子)
 1. Egg Custard (蛋羹)
 1. Pork Slivers (鱼香肉丝 / 榨菜肉丝)
 1. Beijing Pork Slivers (京酱肉丝)
-   [tasteatlas](https://www.tasteatlas.com/jing-jiang-rou-si)
+   [Taste Atlas](https://www.tasteatlas.com/jing-jiang-rou-si)
 1. Sichuan Cold Noodles (凉拌面)
 1. Twice-Cooked Pork (回锅肉)
-1. Leftover Porridge (泡饭)
-    1. https://thewoksoflife.com/pao-fan/
+1. Leftover Porridge (泡饭) [The Woks of Life](https://thewoksoflife.com/pao-fan/)
 1. Cured Pork (醬肉)
-   [wayoftheeating](https://wayoftheeating.wordpress.com/2015/04/28/pork-30-jiangrou-醬肉/)
-1. Kabuli Pulao [afghancooks](https://afghancooks.com/kabuli-pulao-recipe/)
+   [Way of the Eating](https://wayoftheeating.wordpress.com/2015/04/28/pork-30-jiangrou-醬肉/)
+1. Kabuli Pulao [Afghan Cooks](https://afghancooks.com/kabuli-pulao-recipe/)
 1. Japanese Curry [Just One Cookbook](https://www.justonecookbook.com/simple-chicken-curry/)
 1. Misc. Over Rice [Youtube](https://www.youtube.com/watch?v=JwPa3-_fNLI)
 1. Three-Treasure Rice (腊味三宝饭)
