@@ -97,6 +97,7 @@
 
 1. Experiment with using laozao (酒酿) when serving eggplant / tofu dishes by
    adding ~2tsp immediately before serving
+1. Explore https://www.tasteatlas.com/best-rated-appetizers-in-sichuan
 
 [^1]: Try with 3tbsp matchaor freeze-dried strawberry powder in the shortbread,
     and candied orange peels and / or orange zest on top of the Nutella and
