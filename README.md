@@ -32,6 +32,7 @@
    [Red House Spice](https://redhousespice.com/sichuan-boiled-beef/)
    [China Sichuan Food](https://www.chinasichuanfood.com/shui-zhu-beef/)
 1. Water-Boiled Fish (水煮鱼)
+1. Sichuan Fish with Pickled Mustard Greens (酸菜鱼)
 
 ### Soups
 
