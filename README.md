@@ -34,6 +34,7 @@
 1. Water-Boiled Fish (水煮鱼)
 1. Sichuan Fish with Pickled Mustard Greens (酸菜鱼)
 1. Chestnut Chicken (板栗炖鸡)
+1. Big Plate Chicken (大盘鸡)
 
 ### Soups
 
