@@ -37,11 +37,10 @@
 1. Big Plate Chicken (大盘鸡)
 1. Dongbei Pork and Chestnut Stew (东北栗子炖肉)
    [The Mala Market](https://blog.themalamarket.com/dongbei-pork-and-chestnut-stew-dongbei-lizi-dun-rou/)
-   N.B.: From Dongbei Harvest, with muer, quail eggs, bamboo shoots, etc.
+   N.B.: From Dongbei Harvest, with muer, quail eggs, bamboo shoots, glass noodles, pumpkin etc.
 1. Pan-fried Mantou Slices
    [I Heart Baking](https://i-heart-baking.blogspot.com/2010/11/pan-fried-mantou.html)
 1. Stir-fried Chives
-1. 
 
 ### Soups
 
