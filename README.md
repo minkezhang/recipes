@@ -31,6 +31,7 @@
 1. Water-Boiled Beef (水煮牛肉)[^4]
    [Red House Spice](https://redhousespice.com/sichuan-boiled-beef/)
    [China Sichuan Food](https://www.chinasichuanfood.com/shui-zhu-beef/)
+   [The Woks of Life](https://thewoksoflife.com/sichuan-boiled-beef/)
 1. Water-Boiled Fish (水煮鱼)
 1. Sichuan Fish with Pickled Mustard Greens (酸菜鱼)
 1. Chestnut Chicken (板栗炖鸡)
