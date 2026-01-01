@@ -1,8 +1,8 @@
 # Flower Roll (花卷)
 
-Last Updated 01.01.2023
+Last Updated 01.01.2026
 
-Makes 10 buns.
+Makes 8 buns.
 
 ![flower_roll](/assets/flower_roll.jpg)
 
@@ -10,7 +10,7 @@ Makes 10 buns.
 
 ### Filling
 
-#### Meat[^1]
+#### Meat[^1][^2]
 
 * 1/4lb ground pork
 * 1/2c chopped scallions
@@ -19,7 +19,8 @@ Makes 10 buns.
 * 1/2tbsp ginger, minced
 * 1/2tbsp garlic, minced or mashed
 * 1tbsp oil
-* 2tsp Szechuan peppers, ground
+* 1tsp Szechuan peppers, ground
+* 1tsp sesame seed oil
 
 #### Vegetarian
 
@@ -30,41 +31,45 @@ Makes 10 buns.
 
 ### Dough
 
-* 2.4c flour
-* 1/3c oil
-* 2/3c water, warm
-* 1.5tsp active dry yeast
-* 1/2tsp salt
+* ~3/4c lukewarm water (slightly less)
+* 1tsp active dry yeast
+* 1tbsp sugar
+* 2c flour
+* 1tsp baking powder
+* 1/4tsp salt
 
 ## Directions
 
 ### Dough
 
-1. Mix yeast and water.
-1. Add to the flour, oil, and salt and knead until consistent texture.
-1. Rest for one hour.
-1. Punch out some air from the dough and divide in half.
-1. Roll out each dough into a large rectangle (~14in x 7in each).
+1. Mix water, yeast, and sugar.
+1. Let stand for 15min, until foamy.
+1. Add flour, baking powder, and salt.
+1. Knead for 20min. Add water as needed (i.e. by dampening hands).
+1. Add extra flour (~1tbsp x 2) if dough is too wet.
+1. Roll out dough into a large rectangle (~18 x 9in).
 
 ### Filling (Meat)
 
+1. Brush on a thin layer of oil onto one side of the dough.
 1. Add everything and mix for several minutes until the pork is of the correct
    texture.
-1. Spread the filling onto both rectangles (i.e. half on each).
+1. Spread the filling onto rectangle.
 
 ### Filling (Vegetarian)
 
-1. Brush oil onto both halves.
+1. Brush oil.
 1. Sprinkle salt and Szechuan pepper.
-1. Add chopped scallions onto both halves.
+1. Add chopped scallions.
 
 ### Buns
 
-1. Fold dough into thirds length-wise.
-1. Cut each half into ten pieces.
-1. Assemble by laying two pieces together and press length-wise with chopsticks;
-   then fold downwards (back into itself).
-1. Steam for ~15min and let rest for a couple of minutes before serving.
+1. Fold dough into thirds length-wise, brushing the newly-exposed side with oil.
+1. Cut into 16 pieces.
+1. Assemble by laying two pieces together and press length-wise with chopsticks.
+1. Gather both ends and stretch and twist once or twice until a continuous twist is formed, then fold back and press into self.
+1. Line steamer, place buns in steamer, cover, and let proof in warm place for 30min.
+1. Steam for ~15min and let rest for 10min with lid on before serving.
 1. Garnish with a bit of salt to taste.
 
 ### Reheating
@@ -73,3 +78,8 @@ Makes 10 buns.
 
 [^1]: This is very similar to the [dumpling](dumplings.md) filling,
       roughly quartered but more oily.
+[^2]: TODO(minkezhang): See also [Chinese Food Hub](https://www.youtube.com/watch?v=WOCt-4pupLY) for a pre-cooked minced pork filling.
+
+## Sources
+
+* Leung, Kaitlin. *The Woks of Life*. https://thewoksoflife.com/hua-juan-flower-rolls-scallion-buns/.
