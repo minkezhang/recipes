@@ -35,7 +35,7 @@ Serves two people.
 
 ## Sources
 
-* Moncel, Beth. BudgetBytes https://www.budgetbytes.com/instant-pot-congee-jook/.
-* Wang, Lawrence. The Kitchn. https://www.thekitchn.com/how-to-make-congee-226778/.
+* Moncel, Beth. *BudgetBytes*. https://www.budgetbytes.com/instant-pot-congee-jook/.
+* Wang, Lawrence. *The Kitchn*. https://www.thekitchn.com/how-to-make-congee-226778/.
 
 [^1]: e.g. [Amazon](https://www.amazon.com/Zhacai-Preserved-Mustard-Vegetable-Original/dp/B092RN69FM)
