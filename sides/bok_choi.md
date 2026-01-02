@@ -13,16 +13,16 @@ Serves one to two people.
 
 ### Sauce
 
-1. 1tbsp cornstarch
-1. 2tsp light soy sauce
-1. 1tsp oyster sauce
-1. 2tsp Shaoxing wine
-1. 1tsp sesame oil
-1. 1/4c chicken stock
-1. pinch of salt
-1. pinch of white pepper
-1. pinch of MSG
-1. 1tsp sugar
+* 1tbsp cornstarch
+* 2tsp light soy sauce
+* 1tsp oyster sauce
+* 2tsp Shaoxing wine
+* 1tsp sesame oil
+* 1/4c chicken stock
+* pinch of salt
+* pinch of white pepper
+* pinch of MSG
+* 1tsp sugar
 
 ## Directions
 
