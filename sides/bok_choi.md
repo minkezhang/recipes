@@ -4,6 +4,8 @@ Last Updated 12.05.2025
 
 Serves one to two people.
 
+![gai_lan](/assets/gai_lan.jpg)
+
 ## Ingredients
 
 * 3/4lb baby bok choi[^1]
@@ -40,5 +42,7 @@ Serves one to two people.
 * Maehashi, Nagi. _recipetineats_. [recipetineats.com/bok-choy-in-ginger-sauce/](https://www.recipetineats.com/bok-choy-in-ginger-sauce/).
 * Joe, Chris. _CJ Eats Recipes_. [cjeatsrecipes.com/bok-choy-with-oyster-sauce/](https://cjeatsrecipes.com/bok-choy-with-oyster-sauce/).
 
-[^1]: May also use gai lan, taking care to add the stems first and steaming for
-    ~2min.
+[^1]: May substitute with gai lan, taking care to
+      1. Trim stems.
+      1. Stir for 30s (instead of 15s).
+      1. Steam for 90s (instead of 45s).
