@@ -50,7 +50,7 @@ Makes 8 buns.
 
 ### Filling (Meat)
 
-1. Stir fry pork in oil for ~2 - 3min until pale.
+1. Stir fry pork in oil on medium heat for ~2 - 3min until pale.
 1. Add chopped onions and fry for ~30s.
 1. Add soy sauce, salt, and white pepper and continue to let simmer for ~30s.
 1. Let sit and cool.
