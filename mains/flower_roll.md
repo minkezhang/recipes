@@ -19,12 +19,12 @@ Makes 8 buns.
 * 1tsp salt
 * 1tsp white pepper
 * 1/2tbsp ginger, minced
-* 1/2c chopped scallions
+* 1/2c scallions, diced
 
 #### Vegetarian
 
 * 1c chopped scallions
-* 2tsp Szechuan peppers, ground
+* 1tsp Szechuan peppers, ground
 * oil
 * finishing salt
 
@@ -36,6 +36,7 @@ Makes 8 buns.
 * 2c flour
 * 1tsp baking powder
 * 1/4tsp salt
+* 1tsp Szechuan peppers, ground
 
 ## Directions
 
