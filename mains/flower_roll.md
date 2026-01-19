@@ -18,7 +18,6 @@ Makes 8 buns.
 * 2tsp light soy sauce
 * 1tsp salt
 * 1tsp white pepper
-* 1/2tbsp ginger, minced
 * 1/2c scallions, diced
 
 #### Vegetarian
