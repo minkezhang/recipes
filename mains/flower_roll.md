@@ -19,6 +19,7 @@ Makes 8 buns.
 * 1tsp salt
 * 1tsp white pepper
 * 1/2c scallions, diced
+* 1/2tbsp ginger, minced
 
 #### Vegetarian
 
