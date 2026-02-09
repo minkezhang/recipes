@@ -25,7 +25,7 @@ Serves 2 - 3 people.
 
 ## Directions
 
-1. Cut meat into 1in cubes.
+1. Cut meat into 1in cubes[^1].
 1. Put meat and a pour of the Shaoxing wine into a pot of cold water and turn
    heat on high. Let boil for 1 - 2min. Skim residue.
 1. Sear meat and 1/3 of the ginger, 1 - 2 green onion stalks on medium heat for
@@ -42,3 +42,5 @@ Serves 2 - 3 people.
 1. Add vinegar into sauce and let simmer for 2 - 3min, then pour over
    meat.
 1. Garnish with chopped green onions and roasted sesame seeds.
+
+[^1]: Too small of a cut makes overcooking the meat harder to avoid.
