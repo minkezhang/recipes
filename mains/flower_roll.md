@@ -15,8 +15,8 @@ Makes 8 buns.
 * 1tbsp oil
 * 1/4lb ground pork
 * 1/8lb onion, diced
-* 2tsp light soy sauce
-* 1tsp salt
+* 1tsp light soy sauce
+* 1/2tsp salt
 * 1tsp white pepper
 * 1/2c scallions, diced
 * 1/2tbsp ginger, minced
