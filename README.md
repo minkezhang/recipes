@@ -45,6 +45,8 @@
    [Red House Spice](https://redhousespice.com/spring-onion-pancake/)
 1. Seared Salmon[^6]
    [Youtube](https://youtube.com/shorts/pLs_8u01wGM?si=cJxQdlsyauKk1FoB)
+1. Poached Chicken
+   [The Woks of Life](https://thewoksoflife.com/cantonese-poached-chicken-w-ginger-scallion-oil-bai-qie-ji/)
 
 ### Soups
 
