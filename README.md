@@ -42,6 +42,8 @@
 1. Stir-fried Chives
 1. Scallion Pancakes (葱油饼)
    [Red House Spice](https://redhousespice.com/spring-onion-pancake/)
+1. Seared Salmon[^6]
+   [Youtube](https://youtube.com/shorts/pLs_8u01wGM?si=cJxQdlsyauKk1FoB)
 
 ### Soups
 
@@ -123,3 +125,4 @@
     1. 1 dried chili
     1. pinch of cinnamon
     1. pinch of cloves
+[^6]: Try with douchi (豆豉) [Youtube](https://www.youtube.com/watch?v=WYkkhB9wlT4) as well.
