@@ -11,8 +11,6 @@
 1. Pork Belly with Pickled Mustard Greens (梅干菜肉)
 1. Jianbing (煎饼馃子)[^8]
    [Youtube](https://www.youtube.com/watch?v=uzN3J9sd4GY)
-1. Golden Pancake (黄金大饼)
-   [Youtube](https://www.youtube.com/watch?v=fQf0YqLo3DY)
 1. Egg Custard (蛋羹)
 1. Pork Slivers (鱼香肉丝 / 榨菜肉丝)
 1. Beijing Pork Slivers (京酱肉丝)
@@ -67,6 +65,11 @@
 1. Spiced Peanuts
    [Red House Spice](https://redhousespice.com/sichuan-spicy-peanuts/)
 
+### Spices
+
+1. Ginger scallion sauce (姜葱酱)
+   [Youtube](https://www.youtube.com/watch?v=mIaAMIUd6WQ)
+
 ### Desserts
 
 1. Tangyuan (汤圆)
@@ -98,6 +101,8 @@
    [Eats Delightful](https://eatsdelightful.com/apple-pie-cookies/)
 1. Corn Cookies
    [The Kitchn](https://www.thekitchn.com/christina-tosis-162171/)
+1. Golden Pancake (黄金大饼)
+   [Youtube](https://www.youtube.com/watch?v=fQf0YqLo3DY)
 
 ### Drinks
 
