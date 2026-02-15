@@ -9,7 +9,10 @@
 1. Bao [Reddit](https://www.reddit.com/r/chinesefood/comments/1qdcx30/)
 1. Lamb Kebabs (羊肉串)
 1. Pork Belly with Pickled Mustard Greens (梅干菜肉)
-1. Jianbing (煎饼馃子)
+1. Jianbing (煎饼馃子)[^8]
+   [Youtube](https://www.youtube.com/watch?v=uzN3J9sd4GY)
+1. Golden Pancake (黄金大饼)
+   [Youtube](https://www.youtube.com/watch?v=fQf0YqLo3DY)
 1. Egg Custard (蛋羹)
 1. Pork Slivers (鱼香肉丝 / 榨菜肉丝)
 1. Beijing Pork Slivers (京酱肉丝)
@@ -84,7 +87,7 @@
 1. Sai Mai Lo
    [Bake You Smile](https://web.archive.org/web/20210711204424/https://bakeyousmile.com/2014/11/10/sago-in-coconut-milk-sai-mai-lo/)
 1. Egg Tart
-1. Pineapple Bun
+1. Pineapple Bun[^7]
    [Healthy Nibbles and Bits](https://healthynibblesandbits.com/pineapple-buns/)
 1. Milk Nougat
    [Sweet Dreams Recipes](https://sweetdreamsrecipes.wordpress.com/2015/10/19/milk-candy-nougat/)
@@ -126,3 +129,10 @@
     1. pinch of cinnamon
     1. pinch of cloves
 [^6]: Try with douchi (豆豉) [Youtube](https://www.youtube.com/watch?v=WYkkhB9wlT4) as well.
+[^7]: Try with char siu filling.
+[^8]:
+  1. cf. jidan bing (鸡蛋饼) [Woks of Life](https://thewoksoflife.com/chinese-breakfast-jidan-bing/)
+  1. Experiment with ratios; home-style batter is
+     1. 1c water / milk
+     1. 1c flour
+     1. 1 egg
