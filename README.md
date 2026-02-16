@@ -49,6 +49,9 @@
    [The Woks of Life](https://thewoksoflife.com/cantonese-poached-chicken-w-ginger-scallion-oil-bai-qie-ji/)
 1. Glutinous Wraps (糯米鸡 / 粽子)
    [Youtube](https://www.youtube.com/watch?v=xIFDMT1vptY)
+1. Shaobing (烧饼)
+1. Qianbing (羌饼)
+   [Epicurious](https://www.epicurious.com/recipes/food/views/yeasted-scallion-sesame-bing-qiang-bing)
 
 ### Soups
 
