@@ -47,7 +47,7 @@
    [Youtube](https://youtube.com/shorts/pLs_8u01wGM?si=cJxQdlsyauKk1FoB)
 1. Poached Chicken
    [The Woks of Life](https://thewoksoflife.com/cantonese-poached-chicken-w-ginger-scallion-oil-bai-qie-ji/)
-1. Glutinous Wraps (糯米鸡)
+1. Glutinous Wraps (糯米鸡 / 粽子)
    [Youtube](https://www.youtube.com/watch?v=xIFDMT1vptY)
 
 ### Soups
