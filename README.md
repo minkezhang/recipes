@@ -54,6 +54,7 @@
    [Epicurious](https://www.epicurious.com/recipes/food/views/yeasted-scallion-sesame-bing-qiang-bing)
 1. Liangban Noodles
    [The Mala Market](https://blog.themalamarket.com/sichuan-liangmian/)
+1. Liangfen https://woonheng.com/liang-fen-cold-jelly-noodles/
 
 ### Soups
 
