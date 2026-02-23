@@ -52,6 +52,8 @@
 1. Shaobing (烧饼)
 1. Qianbing (羌饼)
    [Epicurious](https://www.epicurious.com/recipes/food/views/yeasted-scallion-sesame-bing-qiang-bing)
+1. Liangban Noodles
+   [The Mala Market](https://blog.themalamarket.com/sichuan-liangmian/)
 
 ### Soups
 
