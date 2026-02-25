@@ -10,7 +10,7 @@
 1. Lamb Kebabs (羊肉串)
 1. Pork Belly with Pickled Mustard Greens (梅干菜肉)
 1. Jianbing (煎饼馃子)[^8]
-   [Youtube](https://www.youtube.com/watch?v=uzN3J9sd4GY)
+   [Youtube](https://www.youtube.com/watch?v=uzN3J9sd4GY) [The Woodward Post](https://www.thewoodwardpost.com/2020-august/2020/8/hudsons-kitchen-tianjin-style-pancake-jianbingguozi)
 1. Egg Custard (蛋羹)
 1. Pork Slivers (鱼香肉丝 / 榨菜肉丝)
 1. Beijing Pork Slivers (京酱肉丝)
