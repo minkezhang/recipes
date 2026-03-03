@@ -55,6 +55,7 @@
 1. Liangban Noodles
    [The Mala Market](https://blog.themalamarket.com/sichuan-liangmian/)
 1. Liangfen https://woonheng.com/liang-fen-cold-jelly-noodles/
+1. Dan Geng *Fuschia Dunlop, Every Grain of Rice, "Steamed Eggs"*
 
 ### Soups
 
