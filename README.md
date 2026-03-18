@@ -56,6 +56,7 @@
    [The Mala Market](https://blog.themalamarket.com/sichuan-liangmian/)
 1. Liangfen https://woonheng.com/liang-fen-cold-jelly-noodles/
 1. Dan Geng *Fuschia Dunlop, Every Grain of Rice, "Steamed Eggs"*
+1. Pickled Long Beans w/ Ground Pork [The Woks of Life](https://thewoksoflife.com/chinese-pickled-long-beans-pork/)
 
 ### Soups
 
