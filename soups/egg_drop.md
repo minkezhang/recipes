@@ -4,6 +4,8 @@ Last Updated 04.14.2026
 
 Serves 2 - 3 people.
 
+![egg_drop_soup](/assets/egg_drop_soup.jpg)
+
 ## Ingredients
 
 * 1lb potatoes
