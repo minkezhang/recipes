@@ -36,6 +36,15 @@ Makes ~40 cookies.
 
 * 1/2c raspberry preserves
 
+#### Chocolate
+
+TODO(minkezhang): Explore Nutella or dark chocolate bourbon ganache.
+
+#### Banana
+
+TODO(minkezhang): Explore roasted bananas and honey / cinnamon; explore banana
+cookie dough.
+
 ## Directions
 
 ### Dough
