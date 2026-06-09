@@ -41,7 +41,6 @@
 1. Pan-fried Mantou Slices
    [I Heart Baking](https://i-heart-baking.blogspot.com/2010/11/pan-fried-mantou.html)
 1. Stir-fried Chives
-1. Stir-fried Spinach / Pea Tips [The Spruce Eats](https://www.thespruceeats.com/stir-fry-spinach-with-garlic-695345)
 1. Scallion Pancakes (葱油饼)
    [Red House Spice](https://redhousespice.com/spring-onion-pancake/)
 1. Seared Salmon[^6]
