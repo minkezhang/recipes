@@ -6,15 +6,15 @@ Makes 1c syrup. Keeps for ~1w.
 
 ## Ingredients
 
-1. 1c dark brown sugar, packed
-1. 1c ginger, sliced
-1. 3/4c water
-1. 2 cinnamon sticks
-1. 1 dried chili
-1. 1tsp vanilla
-1. orange peel
-1. pinch of salt
-1. pinch of cloves
+* 1c dark brown sugar, packed
+* 1c ginger, sliced
+* 3/4c water
+* 2 cinnamon sticks
+* 1 dried chili
+* 1tsp vanilla
+* orange peel
+* pinch of salt
+* pinch of cloves
 
 ## Directions
 
