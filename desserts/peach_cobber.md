@@ -22,6 +22,7 @@ Serves four people.
 1. Add 1/4c melted butter and stir.
 1. Layer 1/3 of the flour mix onto the bottom of a 9x9 baking pan.[^1]
 1. Add peaches and syrup.[^2]
+1. Bake for 45min.
 1. Serve with ice cream.
 
 [^1]: Double servings can be made in a 9x13 instead.
