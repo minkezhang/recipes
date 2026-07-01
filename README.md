@@ -81,7 +81,8 @@
 
 1. Ginger scallion sauce (姜葱酱)
    [Youtube](https://www.youtube.com/watch?v=mIaAMIUd6WQ)
-
+1. Pickled jalapenos
+   [AllRecipes](https://www.allrecipes.com/cowgirl-candy-candied-jalapenos-and-pineapple-recipe-11968468)
 ### Desserts
 
 1. Tangyuan (汤圆)
