@@ -117,7 +117,7 @@
 1. Golden Pancake (黄金大饼)
    [Youtube](https://www.youtube.com/watch?v=fQf0YqLo3DY)
 1. Cheesecake
-   [Sugar Spun Run](https://sugarspunrun.com/best-cheesecake-recipe/), [recipetineats](https://www.recipetineats.com/strawberry-cheesecake/)[^9]
+   [Sugar Spun Run](https://sugarspunrun.com/best-cheesecake-recipe/), [recipetineats](https://www.recipetineats.com/strawberry-cheesecake/)[^9], [allrecipes](https://www.allrecipes.com/recipe/222588/strawberry-cheesecake/)
 
 ### Drinks
 
