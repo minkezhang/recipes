@@ -57,6 +57,7 @@
 1. Liangfen https://woonheng.com/liang-fen-cold-jelly-noodles/
 1. Dan Geng *Fuschia Dunlop, Every Grain of Rice, "Steamed Eggs"*
 1. Pickled Long Beans w/ Ground Pork [The Woks of Life](https://thewoksoflife.com/chinese-pickled-long-beans-pork/)
+1. Guobuli Baozi https://asu.digication.com/summer_2017_cultural_cookbook/GOU_BU_LI_BAO_ZI
 
 ### Soups
 
