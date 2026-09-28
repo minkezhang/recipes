@@ -121,6 +121,8 @@
    [Youtube](https://www.youtube.com/watch?v=fQf0YqLo3DY)
 1. Cheesecake
    [Sugar Spun Run](https://sugarspunrun.com/best-cheesecake-recipe/), [recipetineats](https://www.recipetineats.com/strawberry-cheesecake/)[^9], [allrecipes](https://www.allrecipes.com/recipe/222588/strawberry-cheesecake/), [glorioustreats](https://www.glorioustreats.com/mango-lime-cheesecake/), [Fresh April Flours](https://freshaprilflours.com/peach-cheesecake/)
+1. Chinese Nougat
+   [What to Cook Today](https://whattocooktoday.com/taiwanese-milk-nougat.html)
 
 ### Drinks
 
