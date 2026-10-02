@@ -68,6 +68,11 @@ TODO(minkezhang): https://thewoksoflife.com/ham-nut-mooncake-recipe/
 1. Let cool to room temperature.
 1. Store in airtight container and rest for three days in fridge.
 
+### TODO
+
+* Consider peach / fruit candy as filling, e.g. [Building Buttercream](https://buildingbuttercream.blogspot.com/2013/09/lotus-paste-peach-candy-mooncakes.html).
+* Consider minced ginger in filling.
+
 [^1]: May be replaced with 60g honey instead.
 [^2]: Omit if using honey.
 [^3]: Total 35g filling per mooncake.
